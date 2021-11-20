@@ -1,0 +1,80 @@
+body {
+    background-image: url('https://imageshack.com/i/poS3wx4gj');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+}
+.main{
+    display:flex;
+}
+
+}
+h1 {
+    font-family: Arial;
+    text-align: left;
+ 
+}
+h2 {
+    font-family: Narkisim;
+    text-align: left;
+}
+h3 {
+    font-family: Aharoni;
+    font-size: large;
+    text-align: center;
+    
+
+}
+.text {
+    font-family: Aharoni;
+    font-size: large;
+    float: left;
+}
+
+table {
+    border-collapse: collapse;
+    width: 50%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.button1 {
+    background-color: firebrick;
+}
+.button2 {
+    background-color: purple;
+}
+.button3 {
+    background-color: forestgreen;
+}
+.button4 {
+    background-color: red;
+}
+
+
+}
+th {
+    height: 30px;
+    margin-right: 2px;
+}
+
+.slideRight {
+    position: relative;
+    animation: slideRight 5s infinite;
+    
+
+}
+
+@keyframes slideRight {
+    from {right: 0px;}
+    to{right:100px;}
+}
+
+address{
+        color:gold;
+        
+}
+
